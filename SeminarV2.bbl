@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{openai2023gpt4}
+OpenAI.
+\newblock Gpt-4 technical report, 2023.
+
+\bibitem{devlin2018bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}, 2018.
+
+\bibitem{rao2023tricking}
+Abhinav Rao, Sachin Vashistha, Atharva Naik, Somak Aditya, and Monojit
+  Choudhury.
+\newblock Tricking llms into disobedience: Understanding, analyzing, and
+  preventing jailbreaks.
+\newblock {\em arXiv preprint arXiv:2305.14965}, 2023.
+
+\bibitem{abdelnabi2023not}
+Sahar Abdelnabi, Kai Greshake, Shailesh Mishra, Christoph Endres, Thorsten
+  Holz, and Mario Fritz.
+\newblock Not what you've signed up for: Compromising real-world llm-integrated
+  applications with indirect prompt injection.
+\newblock In {\em Proceedings of the 16th ACM Workshop on Artificial
+  Intelligence and Security}, pages 79--90, 2023.
+
+\bibitem{ouyang2022training}
+Long Ouyang, Jeffrey Wu, Xu~Jiang, Diogo Almeida, Carroll Wainwright, Pamela
+  Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, et~al.
+\newblock Training language models to follow instructions with human feedback.
+\newblock {\em Advances in Neural Information Processing Systems},
+  35:27730--27744, 2022.
+
+\bibitem{kang2023exploiting}
+Daniel Kang, Xuechen Li, Ion Stoica, Carlos Guestrin, Matei Zaharia, and
+  Tatsunori Hashimoto.
+\newblock Exploiting programmatic behavior of llms: Dual-use through standard
+  security attacks.
+\newblock {\em arXiv preprint arXiv:2302.05733}, 2023.
+
+\end{thebibliography}
